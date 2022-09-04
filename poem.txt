@@ -3,5 +3,9 @@ The KK
 hello 
 world!
 There is a rainbow in sky.
+----------------------------
+There are different colors.
+
+--------------------------
 No one can reach.
 But every one can see.....
