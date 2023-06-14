@@ -1,13 +1,15 @@
-The KK and branch1
+The KK and branch2
 
 hello 
 world!
 There is a rainbow in sky.
 ----------------------------
 
-here is branch1
+here is branch2
 
 --------------------------
-branch1 is not master.
+branch2 is not master.
 but branch of master .
 But ........
+commited to same branch 
+Not yet new branch..
